@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharv Burade</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
 ![logo](https://github.com/atharvburade/atharvburade/blob/main/ab%20banner.png)
-<h3 align="center">Experienced Full Stack Software Engineer | Proficient in Angular, React, Node.js | Skilled in JavaScript, Java, HTML, CSS | Strong background in Software Development & Problem Solving</h3>
-<br>
+<h3 align="center">A passionate Fullstack developer from India</h3>
+
 
 - 💬 Ask me about **Angular, Node.js, Typescript, JavaScript, HTML/CSS, Web Development,  Strong background in Software Development & Problem Solving**
 
